@@ -1,6 +1,6 @@
 // This changes the title of your site
 
-var sitename = "SussyGamesUnblockedbeta."; // Change this to change the name of your website.
+var sitename = "CompositeDriveGamesBeta."; // Change this to change the name of your website.
 var subtext = "v0.1"; // set the subtext
 
 // more settings in main.css
